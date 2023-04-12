@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\superposition.h(28,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(52,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(52,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(54,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(54,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(90,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(90,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(103,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(103,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(103,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(106,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\tile.h(106,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\grid.h(111,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\grid.h(118,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Justin\Desktop\Code Folder\c++\sfml\sfml\main.cpp(45,27): warning C4930: 'superposition_factory factory(void)': prototyped function not called (was a variable definition intended?)
+  superposition_factory.cpp
+  Generating Code...
+  sfml.vcxproj -> C:\Users\Justin\Desktop\Code Folder\c++\sfml\x64\Debug\sfml.exe
